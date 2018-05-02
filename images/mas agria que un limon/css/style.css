@@ -86,6 +86,17 @@ p{
   margin-top: 20px;
 
 }
+a{
+  text-decoration: none;
+  color: white;
+}
+a:active{
+  color:#ee9a40;
+}
+a:hover{
+  text-decoration: underline;
+
+
 
 
 
